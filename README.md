@@ -11,3 +11,5 @@ Have fun!
 
 -------
 *If you've been here before but you're confused by all the newness, the original [MoppyClassic](https://github.com/SammyIAm/MoppyClassic) has still been preserved for posterity, but will no longer receive any updates.*
+
+https://makezine.com/projects/how-to-create-floppy-drive-music/?utm_source=MakeNewsletter+20190115&utm_medium=email&utm_content=button&utm_campaign=newsletter
